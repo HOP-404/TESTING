@@ -1,5 +1,4 @@
-"
-
+```
 cd
 
 rm -rf TESTING
@@ -12,4 +11,4 @@ git pull
 
 python TEST.py
 
-"
+```
