@@ -5,7 +5,7 @@
 - **FUTURES 𝟭** : 𝗥𝗔𝗡𝗗𝗢𝗠 𝗖𝗟𝗢𝗡𝗘
 ## :star2: OVERVIEW
 
- ![Screenshot](<a href="https://ibb.co.com/ptyFRJ5"><img src="https://i.ibb.co.com/ShrCdRG/Picsart-25-08-12-08-44-07-026.jpg" alt="Picsart-25-08-12-08-44-07-026" border="0"></a>)
+ ![Screenshot] <a href="https://ibb.co.com/ptyFRJ5"><img src="https://i.ibb.co.com/ShrCdRG/Picsart-25-08-12-08-44-07-026.jpg" alt="Picsart-25-08-12-08-44-07-026" border="0"></a>
 ## : INSTALL 𝗧𝗢𝗢𝗟
  
 ```
